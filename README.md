@@ -17,3 +17,4 @@ When I dipped my toes into the field of frontend world, it's fortunate for me to
 - [Read the Tea Leaves](https://nolanlawson.com/), Nolan.
 - [Tobias Ahlin](https://tobiasahlin.com/), Tobias Ahlin.
 - [TkDodo's blog](https://tkdodo.eu/blog/), Dominik.
+- [maxiferreira](https://www.maxiferreira.com/), Maxi.

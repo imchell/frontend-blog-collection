@@ -18,3 +18,5 @@ When I dipped my toes into the field of frontend world, it's fortunate for me to
 - [Tobias Ahlin](https://tobiasahlin.com/), Tobias Ahlin.
 - [TkDodo's blog](https://tkdodo.eu/blog/), Dominik.
 - [maxiferreira](https://www.maxiferreira.com/), Maxi.
+- [rsms](https://rsms.me), Rasmus.
+- [Made by Evan](https://madebyevan.com), Evan.
